@@ -1,0 +1,39 @@
+#mainNav{
+    background-color: rgba(0, 0, 0, 0.44) !important
+}
+
+/*.nav-link{
+    color: rgba(175, 10, 10, 0.842) !important;
+    
+}
+
+.nav-link:hover{
+    color: rgba(0, 0, 0, 0.7) !important;
+    text-decoration:underline;
+}*/
+
+.btn-primary{
+    background-color: #e61111cc !important;
+    border-color: #e61111cc;
+}
+
+.img_services{
+    width:150 ;
+    height: 90px;
+    background-color: rgba(0, 0, 0, 0);
+    display: inline;
+
+
+}
+
+.text_services{
+    display: inline;
+}
+
+.container_box_services{
+    display: flex;
+}
+
+.container_services{
+    padding-bottom: 100px;
+}
